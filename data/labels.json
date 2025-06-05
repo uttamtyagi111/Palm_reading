@@ -1,0 +1,14 @@
+[
+  {
+    "image": "palm_001.jpg",
+    "traits": ["confident", "emotional"]
+  },
+  {
+    "image": "palm_002.jpg",
+    "traits": ["logical", "introverted"]
+  },
+  {
+    "image": "palm_003.jpg",
+    "traits": ["creative", "ambitious"]
+  }
+]

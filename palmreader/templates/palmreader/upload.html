@@ -1,0 +1,6 @@
+<h2>Upload Palm Image</h2>
+<form method="post" enctype="multipart/form-data">
+  {% csrf_token %}
+  <input type="file" name="palm_image" required>
+  <button type="submit">Predict</button>
+</form>
