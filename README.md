@@ -32,5 +32,10 @@ A Django web application that predicts palmistry-based traits by analyzing a use
 ---
 
 ## 🚀 Getting Started
+bash
 
 ### 1. Clone the Repository
+git colne https://github.com/uttamtyagi111/Palm_reading.git
+
+### 2. Install the Requirements
+pip install -r requirements.txt
